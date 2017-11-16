@@ -1,4 +1,5 @@
 # IntoTheMachine
+An interactive programming guide for ages -3/4 up to 999.
 ## Story
 There is no story
 ## Zones
