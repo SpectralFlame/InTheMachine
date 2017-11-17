@@ -14,9 +14,13 @@ An interactive programming guide for ages -3/4 up to 999.
 ### Object Oriented Programming
 - [ ] Interfaces
 - [ ] Classes
+  - [ ] Properties
+  - [ ] Constructor
+  - [ ] Methods
 - [ ] Polymorphism
-- [ ] Inheritance
-- [ ] Composition
+  - [ ] Inheritance
+  - [ ] Composition
+- [ ] Unified Modelling Language (UML)
 ### Data Structures
 https://en.wikipedia.org/wiki/List_of_data_structures
 #### Arrays
