@@ -16,6 +16,7 @@ An interactive programming guide for ages -3/4 up to 999.
 - [ ] While Loops
 - [ ] For Loops
 - [ ] Do While Loops
+- [ ] Functions / Methods
 ### Object Oriented Programming
 - [ ] Interfaces
 - [ ] Classes
@@ -190,9 +191,17 @@ There is no art yet
 
 ### Animation
 - [ ] Shaky Machine
+- [ ] Assembly Line (Like the Packages of https://atom.io/)
 - [ ] Oil Refinery
 - [ ] Steam Engine
 - [ ] Wind Farm
 
 ## Ideas
-I got no ideas
+### Loops
+#### For Loops
+* Calculate the nth number of a sequence (Fibonacci, Exponential growth, ...)
+* Get the minimum and maximum value in an array
+* Kernel Filter
+#### While Loops
+* Read a file one line at a time
+* Find at which index a sequence passes a certain treshold
