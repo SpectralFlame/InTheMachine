@@ -27,6 +27,30 @@ An interactive programming guide for ages -3/4 up to 999.
   - [ ] Inheritance
   - [ ] Composition
 - [ ] Unified Modelling Language (UML)
+### Design Patterns
+- [ ] Creational Patterns
+  - [ ] Singleton
+  - [ ] Builder
+  - [ ] Factory
+  - [ ] Prototype
+  - [ ] Object Pool
+  - [ ] ...
+- [ ] Structural Patterns
+  - [ ] Flyweight
+  - [ ] Adapter
+  - [ ] Decorator
+  - [ ] Facade
+  - [ ] ...
+- [ ] Behavioral Patterns
+  - [ ] Command
+  - [ ] Strategy
+  - [ ] Template
+  - [ ] Observer
+  - [ ] ...
+- [ ] Concurrency Patterns
+  - [ ] Blockchain
+  - [ ] Thread Pool
+  - [ ] ...
 ### Data Structures
 https://en.wikipedia.org/wiki/List_of_data_structures
 #### Arrays
