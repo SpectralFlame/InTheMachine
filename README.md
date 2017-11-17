@@ -23,8 +23,13 @@ type | color
 `char` | light blue
 `string` | blue
 ? `object` | white
+
+Boxes would just fall on the floor and get pushed into a tube to the next section.
 ### Get Sorted
-First if / else statements
+If / else statements
+A piston system needs to sort the boxes but is broken. By dragging code to a piston the piston will adjust it's behavior (based on color of the box on it)
+### Recycling Facility
+All about code reuse
 ### Assembly Line
 idk yet
 ### Packing Zone
@@ -32,7 +37,8 @@ Classes ?
 ### Gear Train
 idk yet
 ### Robotics
-idk yet
+Classes ?
+Artificial Intelligence ?
 ### Oil Refinery
 Refine your skills
 ## Artwork
