@@ -11,18 +11,54 @@ An interactive programming guide for ages -3/4 up to 999.
 - [ ] While Loops
 - [ ] For Loops
 - [ ] Do While Loops
+### Object Oriented Programming
+- [ ] Interfaces
 - [ ] Classes
 - [ ] Polymorphism
 - [ ] Inheritance
 - [ ] Composition
 ### Data Structures
 https://en.wikipedia.org/wiki/List_of_data_structures
-- [ ] Arrays
-- [ ] Linked Lists
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+#### Arrays
+- [ ] Array
+- [ ] Circular Buffer
+- [ ] ...
+#### Lists
+- [ ] Linked List
+- [ ] Doubly Linked List
+- [ ] Array List
+- [ ] Self Organizing List
+- [ ] ...
+#### Trees
+##### Binary Trees
+- [ ] Binary Tree
+- [ ] Binary Search Tree
+- [ ] AVL Tree
+- [ ] ...
+##### B-Trees
+- [ ] B-Tree
+- [ ] ...
+##### Heaps
+- [ ] Heap
+- [ ] Binary Heap
+- [ ] D-ary Heap
+- [ ] ...
+##### Trees
+- [ ] Trie
+- [ ] Merkle Tree
+- [ ] ...
+##### Multiway Trees
+- [ ] Ternary Tree
+- [ ] ...
+##### Space-Partitioning Trees
+- [ ] Segment Tree
+- [ ] Interval Tree
+- [ ] Range Tree
+- [ ] ...
+##### Application-Specific Trees
+- [ ] Decision Tree
+- [ ] MinMax Tree
+- [ ] ...
 ### Algorithms
 - [ ] Big O notation
 #### Search Algorithms
