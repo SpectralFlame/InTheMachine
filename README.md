@@ -7,19 +7,22 @@ There is no story
 Introduction ? or perhaps the opposite
 ### Garbage Dump
 Datatypes
-A dump in the background with a shaky machine. There are buttons that makes the machine spit out boxes. These boxes have a value and color depending on the datatype. 
-* ? `void` - black
-* `boolean` - yellow
-* `byte` - pink
-* ? `short` - orange
-* `int` - red
-* ? `long` - dark red
-* ? `float` - light green
-* `double` - green
-* ? `decimal` - dark green
-* `char` - light blue
-* `string` - blue
-* ? `object` - white
+A dump in the background with a shaky machine. There are buttons that makes the machine spit out boxes. These boxes have a value and color depending on the datatype.
+
+type | color
+---- | -----
+? `void` | black
+`boolean` | yellow
+`byte` | pink
+? `short` | orange
+`int` | red
+? `long` | dark red
+? `float` | light green
+`double` | green
+? `decimal` | dark green
+`char` | light blue
+`string` | blue
+? `object` | white
 ### Get Sorted
 First if / else statements
 ### Assembly Line
