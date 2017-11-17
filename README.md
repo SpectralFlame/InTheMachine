@@ -1,5 +1,47 @@
 # IntoTheMachine
 An interactive programming guide for ages -3/4 up to 999.
+## Things To Teach
+### Computer Stuff
+- [ ] How memory works
+### Basic Programming Stuff
+- [x] Primitive Datatypes
+- [ ] Type Conversion
+- [x] If - else Statements
+- [ ] Switch Statements
+- [ ] While Loops
+- [ ] For Loops
+- [ ] Do While Loops
+- [ ] Classes
+- [ ] Polymorphism
+- [ ] Inheritance
+- [ ] Composition
+### Data Structures
+https://en.wikipedia.org/wiki/List_of_data_structures
+- [ ] Arrays
+- [ ] Linked Lists
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+### Algorithms
+- [ ] Big O notation
+#### Search Algorithms
+http://www.geeksforgeeks.org/searching-algorithms/
+- [ ] Linear Search
+- [ ] Binary Search
+- [ ] Jump Search
+- [ ] Interpolation Search
+- [ ] Exponential Search
+- [ ] Sublist Search
+- [ ] Fibonacci Search
+- [ ] Obiquitous Binary Search
+#### Pathfinding Algorithms
+- [ ] Dijkstra
+- [ ] A*
+- [ ] Depth First Search
+- [ ] Breadth First Search
+
+
 ## Story
 There is no story
 ## Zones
@@ -43,22 +85,33 @@ idk yet
 Classes ?
 
 ### Gear Train
-inheritance
+inheritance ?
 
 ### Robotics
-Interfaces
+Interfaces ?
 
 Artificial Intelligence
 
 ### Steam Engine
 Cloud stuff ?
 
+### Wind Farm
+Cloud stuff ?
+
 ### Oil Refinery
 Refine your skills
 
 ## Artwork
-There is no art
+There is no art yet
+
+### Static Images
+- [ ] Garbage dump
+
 ### Animation
-There is no animation
+- [ ] Shaky Machine
+- [ ] Oil Refinery
+- [ ] Steam Engine
+- [ ] Wind Farm
+
 ## Ideas
 I got no ideas
