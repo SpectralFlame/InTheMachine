@@ -2,7 +2,12 @@
 An interactive programming guide for ages -3/4 up to 999.
 ## Things To Teach
 ### Computer Stuff
-- [ ] How memory works
+- [ ] How Programs Work
+  - [ ] Instruction Order Importance
+  - [ ] Code Execution
+  - [ ] Compiler
+- [ ] How Memory Works
+  - [ ] What Is A Bit
 ### Basic Programming Stuff
 - [x] Primitive Datatypes
 - [ ] Type Conversion
