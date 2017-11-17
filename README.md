@@ -3,7 +3,18 @@ An interactive programming guide for ages -3/4 up to 999.
 ## Story
 There is no story
 ## Zones
-There are no zones
+### Garbage Dump
+Datatypes
+### Get Sorted
+First if / else statements
+### Assembly Line
+idk yet
+### Packing Zone
+Classes ?
+### Gear Train
+idk yet
+### Oil Refinery
+Refine your skills
 ## Artwork
 There is no art
 ### Animation
