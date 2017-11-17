@@ -8,6 +8,7 @@ Introduction ? or perhaps the opposite
 
 ### Garbage Dump
 Datatypes
+
 A dump in the background with a shaky machine. There are buttons that makes the machine spit out boxes. These boxes have a value and color depending on the datatype.
 
 type | color
@@ -29,6 +30,7 @@ Boxes would just fall on the floor and get pushed into a tube to the next sectio
 
 ### Get Sorted
 If / else statements
+
 A piston system needs to sort the boxes but is broken. By dragging code to a piston the piston will adjust it's behavior (based on color of the box on it)
 
 ### Recycling Facility
@@ -44,7 +46,8 @@ Classes ?
 inheritance
 
 ### Robotics
-interfaces
+Interfaces
+
 Artificial Intelligence
 
 ### Steam Engine
