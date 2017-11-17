@@ -71,12 +71,21 @@ http://www.geeksforgeeks.org/searching-algorithms/
 - [ ] Sublist Search
 - [ ] Fibonacci Search
 - [ ] Obiquitous Binary Search
+- [ ] ...
 #### Pathfinding Algorithms
 - [ ] Dijkstra
 - [ ] A*
 - [ ] Depth First Search
 - [ ] Breadth First Search
-
+- [ ] Hill Climbing 
+- [ ] Backtracking
+- [ ] ...
+### Maths in Programming
+- [ ] Coordinate System
+- [ ] Angles
+- [ ] Trigonometry
+- [ ] Matrices
+- [ ] ... (Depends a lot on what you're doing)
 
 ## Story
 There is no story
@@ -109,7 +118,23 @@ Boxes would just fall on the floor and get pushed into a tube to the next sectio
 ### Get Sorted
 If / else statements
 
-A piston system needs to sort the boxes but is broken. By dragging code to a piston the piston will adjust it's behavior (based on color of the box on it)
+A piston system needs to sort the boxes but is broken. By dragging code to a piston the piston will adjust it's behavior (based on color of the box on it).
+
+```javascript
+function(piston, color) {
+  // Place for code to be dragged here
+}
+```
+
+```javascript
+if (color == "green") {
+  // Place for code to be dragged here
+}
+```
+
+```javascript
+piston.activate = true;
+```
 
 ### Recycling Facility
 All about code reuse
