@@ -90,7 +90,7 @@ Refine your skills
 printing to the output etc
 
 ### The Shredder
-idk, randomizing data maybe
+idk, randomizing data maybe, or finding patterns in "shredded" data
 
 ## Artwork
 There is no art yet
