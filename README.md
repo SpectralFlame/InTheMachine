@@ -1,7 +1,13 @@
 # IntoTheMachine
 An interactive programming guide for ages -3/4 up to 999.
 ## Things To Teach
+- [ ] means we know where to implement it (more or less)
+- [x] means it's implemented
+---------------------------------------------------------
+- [ ] Primitive Datatypes
+- [ ] If - else Statements
 
+See OtherTopics.md for other things
 ## Story
 There is no story
 ## Zones
