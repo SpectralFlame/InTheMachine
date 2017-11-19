@@ -6,11 +6,14 @@ An interactive programming guide for ages -3/4 up to 999.
 ---------------------------------------------------------
 - [ ] Primitive Datatypes
 - [ ] If - else Statements
-
-See OtherTopics.md for other things
+---------------------------------------------------------
+See OtherTopics.md for other things we can implement
 ## Story
 There is no story
 ## Zones
+
+The zones are in no particular order
+
 ### The Core
 Introduction ? or perhaps the opposite
 
@@ -82,6 +85,12 @@ Cloud stuff ?
 
 ### Oil Refinery
 Refine your skills
+
+### Printing Press
+printing to the output etc
+
+### The Shredder
+idk, randomizing data maybe
 
 ## Artwork
 There is no art yet
