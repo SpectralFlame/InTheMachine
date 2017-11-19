@@ -1,5 +1,6 @@
 # IntoTheMachine
 An interactive programming guide for ages -3/4 up to 999.
+
 ## Things To Teach
 - [ ] means we know where to implement it (more or less)
 - [x] means it's implemented
@@ -8,10 +9,15 @@ An interactive programming guide for ages -3/4 up to 999.
 - [ ] If - else Statements
 ---------------------------------------------------------
 See OtherTopics.md for other things we can implement
-## Story
-There is no story
-## Zones
 
+## Story
+### Plot 1
+You're an evil mastermind. You find a city of machines. You try to figure out how everything works to then modify it to make an evil robot that will always do what you say.
+
+### Plot 2
+Your dad is the boss (or mayor) of Mech City. Ever since he got in control more and more things went wrong. The city is totally abandoned now and barely anything works. Today is the day that you've been waiting for, your dad retires and you get to have the whole city for yourself. Your plan is to make Mech City great again, step by step.
+
+## Zones
 The zones are in no particular order
 
 ### The Core
