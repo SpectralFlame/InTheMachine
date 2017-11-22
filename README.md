@@ -112,6 +112,9 @@ There is no art yet
 - [ ] Wind Farm
 
 ## Ideas
+### Game Additions
+* Achievements
+* Levels with an extra harder task to earn extra points/achievements
 ### Loops
 #### For Loops
 * Calculate the nth number of a sequence (Fibonacci, Exponential growth, ...)
