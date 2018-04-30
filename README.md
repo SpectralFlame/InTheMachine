@@ -112,6 +112,13 @@ There is no art yet
 - [ ] Wind Farm
 
 ## Ideas
+### Level Ideas
+* Renovate a machine by checking all the parts and perform an action based on the damage (For / Switch)
+  * Oil squeeky parts
+  * Fasten loose bolts
+  * Remove blockages
+  * Add missing gears
+* Find a treasure in a two dimensional array by applying a mathematical formula or a set of rules based on some kind of input
 ### Game Additions
 * Achievements
 * Levels with an extra harder task to earn extra points/achievements
