@@ -120,6 +120,8 @@ There is no art yet
 * Calculate the nth number of a sequence (Fibonacci, Exponential growth, ...)
 * Get the minimum and maximum value in an array
 * Kernel Filter
+#### Foreach Loops
+* Make invisible objects visible
 #### While Loops
 * Read a file one line at a time
 * Find at which index a sequence passes a certain treshold
